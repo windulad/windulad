@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @winduladissanayake
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer science in university of Kelaniya
-- 💞️ I’m looking to collaborate on google.
+- 👋 Hi, I’m @winduladissanayake.
+- 👀 I’m a computer science undergraduate at university of Kelaniya.
+- 🌱 I use python for my projects.
+- 💞️ I’m interested in Artificiall Intelligence.
 - 📫 How to reach me ...
             Email = charithwinwindula@gmail.com
 
