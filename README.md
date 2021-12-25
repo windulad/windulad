@@ -19,7 +19,8 @@
 # Who am I? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 </p>
-<img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br>
+<img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<br>
 
 - 👯 HTML / CSS / PYTHON 
 - 🌱 I’m currently learning computer science at the university of kelaniya 
