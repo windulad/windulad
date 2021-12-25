@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Windula Dissanayake
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png)
 
 I'm a computer science undergraduate at the University of Kelaniya, a passionate blogger on medium, and an enthusiastic graphic designer.
 
