@@ -22,24 +22,24 @@
 <img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
 
-- 👯 HTML / CSS / PYTHON 
-- 🌱 I’m currently learning computer science at the university of kelaniya 
-- 👯 I’m looking to collaborate on python projects 
-- 🤔 I’m looking for help with python projects 
+- 🌱 I’m currently learning computer science at the University of Kelaniya, Sri Lanka. 
+- 👯 I’m looking to collaborate on python projects.
+- 🤔 I’m looking for help with python projects. 
+- 😎 Languages: HTML / CSS / PYTHON 
 - 📫 How to reach me: charithwinwindula@gmail.com 
 - 😄 Pronouns: He / His / His 
-- ⚡ Fun fact: A potterhead, a bookworm and a teaholic guy 
+- ⚡ Fun fact: I'm a potterhead, a bookworm and a teaholic guy 
 </p>
 
 # More About Me? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='center'>
-I'm a computer science undergraduate at the University of Kelaniya, a passionate blogger on medium, and an enthusiastic graphic designer.
+I'm a Windula Dissanayake. Currenylt I'm studying as a computer science undergraduate at the University of Kelaniya, Sri Lanka. I'm interseting in doing and contributing to Python projects to improve my coding skills. Moreover I'm a passionate blogger on medium. I write on many subject areas. Also I'm an enthusiastic graphic designer. I Have basic graphic designing skills and I'm working hard to enhance my knowledge on graphic designung.
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=winduladissanayake&show_icons=true&theme=dark">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winduladissanayake&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=winduladissanayake&show_icons=true&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winduladissanayake&theme=dark">
 <p>
  
 
