@@ -1,6 +1,7 @@
 # Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img width="1000" align='center' src="https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png"> 
+<br>
 
 <p align="center">
   <a href="https://github.com/https://github.com/winduladissanayake"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a> &nbsp;
@@ -16,8 +17,6 @@
 </p>
 
 # Who am I? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
  
 </p>
 <img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
