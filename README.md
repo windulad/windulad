@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Windula Dissanayake
+# Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img width="1500" align='center' src="https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png"> 
+<img width="1000" align='center' src="https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png"> 
 
 <p align="center">
   <a href="https://github.com/https://github.com/winduladissanayake"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a> &nbsp;
@@ -15,6 +15,13 @@
   <a href="ttps://campsite.bio/winduladissanayake"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'></a>
 </p>
 
+# Who am I? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+ 
+</p>
+<img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 👯 HTML / CSS / PYTHON 
 - 🌱 I’m currently learning computer science at the university of kelaniya 
 - 👯 I’m looking to collaborate on python projects 
@@ -22,16 +29,20 @@
 - 📫 How to reach me: charithwinwindula@gmail.com 
 - 😄 Pronouns: He / His / His 
 - ⚡ Fun fact: A potterhead, a bookworm and a teaholic guy 
+</p>
 
----
-
-### About Me
+# More About Me? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='center'>
 I'm a computer science undergraduate at the University of Kelaniya, a passionate blogger on medium, and an enthusiastic graphic designer.
 </p>
 
-<img width="400" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=winduladissanayake&show_icons=true&theme=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winduladissanayake&theme=dark">
+<p>
+ 
+
 
 <!---
 winduladissanayake/winduladissanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
