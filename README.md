@@ -38,8 +38,8 @@ I'm a Windula Dissanayake. Currenylt I'm studying as a computer science undergra
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=winduladissanayake&show_icons=true&theme=dark">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winduladissanayake&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=windula&show_icons=true&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windula&theme=dark">
 <p>
  
 
