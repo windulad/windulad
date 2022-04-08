@@ -4,16 +4,16 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/https://github.com/windula"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a> &nbsp;
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/winduladissanayake//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a>
+  <a href="https://github.com/windula"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a> &nbsp;
+  <a href="https://www.linkedin.com/in/winduladissanayake//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a>
 &nbsp;
-  <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100009977770995"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'></a>
+  <a href="https://www.facebook.com/profile.php?id=100009977770995"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'></a>
 &nbsp;
-  <a href="https://www.instagram.com/https://www.instagram.com/ncloyal__//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'></a>
+  <a href="https://www.instagram.com/ncloyal__//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'></a>
 &nbsp;
-  <a href="https://twitter.com/https://twitter.com/windula__"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'></a>
+  <a href="https://twitter.com/windula__"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'></a>
 &nbsp;
-  <a href="ttps://campsite.bio/winduladissanayake"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'></a>
+  <a href="https://campsite.bio/winduladissanayake"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'></a>
 </p>
 
 # Who am I? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
