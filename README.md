@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/https://github.com/winduladissanayake"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a> &nbsp;
+  <a href="https://github.com/https://github.com/windula"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a> &nbsp;
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/winduladissanayake//"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a>
 &nbsp;
   <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100009977770995"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'></a>
