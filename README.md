@@ -37,13 +37,6 @@
 I'm a Windula Dissanayake. Currenylt I'm studying as a computer science undergraduate at the University of Kelaniya, Sri Lanka. I'm interseting in doing and contributing to Python projects to improve my coding skills. Moreover I'm a passionate blogger on medium. I write on many subject areas. Also I'm an enthusiastic graphic designer. I Have basic graphic designing skills and I'm working hard to enhance my knowledge on graphic designung.
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=windula&show_icons=true&theme=dark">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windula&theme=dark">
-<p>
- 
-
-
 <!---
 winduladissanayake/winduladissanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
