@@ -34,7 +34,7 @@
 # More About Me? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='center'>
-I'm a Windula Dissanayake. Currenylt I'm studying as a computer science undergraduate at the University of Kelaniya, Sri Lanka. I'm interseting in doing and contributing to Python projects to improve my coding skills. Moreover I'm a passionate blogger on medium. I write on many subject areas. Also I'm an enthusiastic graphic designer. I Have basic graphic designing skills and I'm working hard to enhance my knowledge on graphic designung.
+I'm a Windula Dissanayake. Currenylt I'm studying as a computer science undergraduate at the University of Kelaniya, Sri Lanka. I'm interseting in doing and contributing to Python projects to improve my coding skills. Moreover I'm a passionate blogger on medium. I write on many subject areas. Also I'm an enthusiastic graphic designer. I Have basic graphic designing skills and I'm working hard to enhance my knowledge on graphic designing.
 </p>
 
 <!---
