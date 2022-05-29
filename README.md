@@ -25,7 +25,6 @@
 - 🌱 I’m currently learning computer science at the University of Kelaniya, Sri Lanka. 
 - 👯 I’m looking to collaborate on python projects.
 - 🤔 I’m looking for help with python projects. 
-- 😎 Languages: HTML / CSS / PYTHON 
 - 📫 How to reach me: charithwinwindula@gmail.com 
 - 😄 Pronouns: He / His / His 
 - ⚡ Fun fact: I'm a potterhead, a bookworm and a teaholic guy 
