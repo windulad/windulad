@@ -1,40 +1,55 @@
-# Hello guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<img width="1000" align='center' src="https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png"> 
-<br>
-
-<p align="center">
-  <a href="https://github.com/windula"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'></a> &nbsp;
-  <a href="https://www.linkedin.com/in/winduladissanayake"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a>
-&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100009977770995"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'></a>
-&nbsp;
-  <a href="https://www.instagram.com/ncloyal__"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'></a>
-&nbsp;
-  <a href="https://twitter.com/windula__"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'></a>
-&nbsp;
-  <a href="https://campsite.bio/winduladissanayake"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'></a>
+# About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!--<img width="1000" align='center' src="https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png">-->
+<p align='justify'>
+Windula Dissanayake is a first-year Computer Science Undergraduate at the Faculty of Computing and Technology, University of Kelaniya. He describes himself as a passionate student with a huge interest in Artificial Intelligence and Machine Learning. He is a member of the marketing team of Computer Science Students’ Association. Windula is also a member of Google Developers Group Sri Lanka and Google Cloud Sri Lanka. He is interested in Web development, Mobile application development, Cloud architecture, and other tech-related subjects. In addition, he is a passionate volunteer in AIESEC of University of Kelaniya.
 </p>
 
-# Who am I? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- 
-</p>
-<img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<br>
-
-- 🌱 I’m currently learning computer science at the University of Kelaniya, Sri Lanka. 
-- 👯 I’m looking to collaborate on python projects.
-- 🤔 I’m looking for help with python projects. 
-- 📫 How to reach me: charithwinwindula@gmail.com 
-- 😄 Pronouns: He / His / His 
-- ⚡ Fun fact: I'm a potterhead, a bookworm and a teaholic guy 
+# Bio Data <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!--</p><img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br>-->
+- <b>Name:</b> D.M.C. Windula Dissanayake 
+- <b>Pronouns:</b> He / His / Him
+- <b>University:</b> BSc(Hons) Computer Science Undergraduate at University of Kelaniya, Sri Lanka. 
+- <b>Address:</b> No.157, Bopitiya, Ku/Bopitiya
+- <b>Email:</b> charithwinwindula@gmail.com
+- <b>Blood Group:</b> O+
+- <b>Fun fact:</b> A potterhead, a bookworm and a teaholic guy 
 </p>
 
-# More About Me? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Technical Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) - HTML & CSS <br>
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) - JavaScript <br>
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) - Bootstrap <br>
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) - Postgre SQL<br>
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) - C <br>
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) - Python <br>
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) - Illustrator <br>
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) - Flutter <br>
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) - Google Cloud <br>
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) - Microsoft Azure <br>
 
-<p align='center'>
-I'm a Windula Dissanayake. Currenylt I'm studying as a computer science undergraduate at the University of Kelaniya, Sri Lanka. I'm interseting in doing and contributing to Python projects to improve my coding skills. Moreover I'm a passionate blogger on medium. I write on many subject areas. Also I'm an enthusiastic graphic designer. I Have basic graphic designing skills and I'm working hard to enhance my knowledge on graphic designing.
-</p>
+# Professional Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- Web Development
+- Mobile application Development
+- Graphic Designing
+- Cloud Computing
+
+# Soft Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- Leadership
+- Creative Thinking
+- Public Speaking
+- Networking
+- Teamwork
+- Communication
+
+# Links <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+- [Facebook](https://www.facebook.com/winduladissanayake)
+- [Instagram](https://www.instagram.com/ncloyal__/)
+- [LinkedIn](https://www.linkedin.com/in/winduladissanayake/)
+- [Email](charithwinwindula@gmail.com)
+- [GitHub](https://github.com/windula)
+- [Dizaartz](https://www.instagram.com/dizaartz/)
+- [Medium](https://medium.com/@windula)
+- [Google Developer](https://g.dev/windula)
 
 <!---
 winduladissanayake/winduladissanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
