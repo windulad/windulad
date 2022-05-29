@@ -4,7 +4,7 @@
 Windula Dissanayake is a first-year Computer Science Undergraduate at the Faculty of Computing and Technology, University of Kelaniya. He describes himself as a passionate student with a huge interest in Artificial Intelligence and Machine Learning. He is a member of the marketing team of Computer Science Students’ Association. Windula is also a member of Google Developers Group Sri Lanka and Google Cloud Sri Lanka. He is interested in Web development, Mobile application development, Cloud architecture, and other tech-related subjects. In addition, he is a passionate volunteer in AIESEC of University of Kelaniya.
 </p>
 
-# Bio Data <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Bio Data <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <!--</p><img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br>-->
 - <b>Name:</b> D.M.C. Windula Dissanayake 
 - <b>Pronouns:</b> He / His / Him
@@ -15,7 +15,7 @@ Windula Dissanayake is a first-year Computer Science Undergraduate at the Facult
 - <b>Fun fact:</b> A potterhead, a bookworm and a teaholic guy 
 </p>
 
-# Technical Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Technical Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) - HTML & CSS <br>
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) - JavaScript <br>
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) - Bootstrap <br>
@@ -27,13 +27,13 @@ Windula Dissanayake is a first-year Computer Science Undergraduate at the Facult
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) - Google Cloud <br>
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) - Microsoft Azure <br>
 
-# Professional Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Professional Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - Web Development
 - Mobile application Development
 - Graphic Designing
 - Cloud Computing
 
-# Soft Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Soft Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - Leadership
 - Creative Thinking
 - Public Speaking
@@ -41,7 +41,7 @@ Windula Dissanayake is a first-year Computer Science Undergraduate at the Facult
 - Teamwork
 - Communication
 
-# Links <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Links <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - [Facebook](https://www.facebook.com/winduladissanayake)
 - [Instagram](https://www.instagram.com/ncloyal__/)
 - [LinkedIn](https://www.linkedin.com/in/winduladissanayake/)
