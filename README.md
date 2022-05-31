@@ -33,14 +33,6 @@ Windula Dissanayake is a first-year Computer Science Undergraduate at the Facult
 - Graphic Designing
 - Cloud Computing
 
-## Soft Skills <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- Leadership
-- Creative Thinking
-- Public Speaking
-- Networking
-- Teamwork
-- Communication
-
 ## Links <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - [Facebook](https://www.facebook.com/winduladissanayake)
 - [Instagram](https://www.instagram.com/ncloyal__/)
