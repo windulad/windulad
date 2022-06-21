@@ -38,7 +38,7 @@ Windula Dissanayake is a first-year Computer Science Undergraduate at the Facult
 - [Instagram](https://www.instagram.com/ncloyal__/)
 - [LinkedIn](https://www.linkedin.com/in/winduladissanayake/)
 - [Email](charithwinwindula@gmail.com)
-- [GitHub](https://github.com/windula)
+- [GitHub](https://github.com/windulad)
 - [Dizaartz](https://www.instagram.com/dizaartz/)
 - [Medium](https://medium.com/@windula)
 - [Google Developer](https://g.dev/windula)
