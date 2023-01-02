@@ -16,16 +16,6 @@
 - Graphic Designing
 - Cloud Computing
 
-## Links
-- [Facebook](https://www.facebook.com/winduladissanayake)
-- [Instagram](https://www.instagram.com/ncloyal__/)
-- [LinkedIn](https://www.linkedin.com/in/winduladissanayake/)
-- [Email](charithwinwindula@gmail.com)
-- [GitHub](https://github.com/windulad)
-- [Dizaartz](https://www.instagram.com/dizaartz/)
-- [Medium](https://medium.com/@windula)
-- [Google Developer](https://g.dev/windula)
-
 <!---
 winduladissanayake/winduladissanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
