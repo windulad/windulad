@@ -1,13 +1,15 @@
 # About Me
 <!--<img width="1000" align='center' src="https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png">-->
 
-- <b>Name:</b> D.M.C. Windula Dissanayake 
-- <b>Pronouns:</b> He / His / Him
-- <b>University:</b> BSc(Hons) Computer Science Undergraduate at University of Kelaniya, Sri Lanka. 
-- <b>Address:</b> No.157, Bopitiya, Ku/Bopitiya
-- <b>Email:</b> charithwinwindula@gmail.com
-- <b>Blood Group:</b> O+
-- <b>Fun fact:</b> A potterhead, a bookworm and a teaholic guy 
+🤍 <b>Name:</b> D.M.C. Windula Dissanayake 
+👦 <b>Pronouns:</b> He / His / Him
+🎓<b>University:</b> BSc(Hons) Computer Science Undergraduate at University of Kelaniya, Sri Lanka. 
+🏠 <b>Address:</b> No.157, Bopitiya, Ku/Bopitiya
+📧 <b>Email:</b> charithwinwindula@gmail.com
+📣 <b>Volunteering :</b> Vice President, Computer Science Students' Association, University of Kelaniya
+Information Management Coordinator, AIESEC in University of Kelaniya
+Co-editor, University of Kelaniya ISACA Student Group
+🎈 <b>Fun fact:</b> A potterhead, a bookworm and a teaholic guy 
 </p>
 
 ## Professional Skills
