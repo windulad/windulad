@@ -1,7 +1,7 @@
 # About Me
 <!--<img width="1000" align='center' src="https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png">-->
 
-🤍 <b>Name:</b>           D.M.C. Windula Dissanayake <br>
+🤍 <b>Name:</b><space>D.M.C. Windula Dissanayake <br>
 👦 <b>Pronouns:</b>       He / His / Him <br>
 🎓<b>University:</b>      BSc(Hons) Computer Science Undergraduate at University of Kelaniya, Sri Lanka. <br>
 🏠 <b>Address:</b>        No.157, Bopitiya, Ku/Bopitiya <br>
