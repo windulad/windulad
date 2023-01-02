@@ -4,12 +4,9 @@
 <p>
 🤍 <b>Name:</b> D.M.C. Windula Dissanayake <br>
 👦 <b>Pronouns:</b> He / His / Him <br>
-🎓<b>University:</b> BSc(Hons) Computer Science Undergraduate at University of Kelaniya, Sri Lanka. <br>
+🎓 <b>University:</b> BSc(Hons) Computer Science Undergraduate at University of Kelaniya, Sri Lanka. <br>
 🏠 <b>Address:</b> No.157, Bopitiya, Ku/Bopitiya <br>
 📧 <b>Email:</b> charithwinwindula@gmail.com <br>
-📣 <b>Volunteering :</b>  Vice President, Computer Science Students' Association, University of Kelaniya <br>
-                          Information Management Coordinator, AIESEC in University of Kelaniya <br>
-                          Co-editor, University of Kelaniya ISACA Student Group <br>
 🎈 <b>Fun fact:</b> A potterhead, a bookworm and a teaholic guy <br> 
 </p>
 
