@@ -1,8 +1,6 @@
 # About Me
 <!--<img width="1000" align='center' src="https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png">-->
 
-## Bio Data
-<!--</p><img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br>-->
 - <b>Name:</b> D.M.C. Windula Dissanayake 
 - <b>Pronouns:</b> He / His / Him
 - <b>University:</b> BSc(Hons) Computer Science Undergraduate at University of Kelaniya, Sri Lanka. 
