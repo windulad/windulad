@@ -15,17 +15,6 @@ Windula Dissanayake is a first-year Computer Science Undergraduate at the Facult
 - <b>Fun fact:</b> A potterhead, a bookworm and a teaholic guy 
 </p>
 
-## Technical Skills
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) - HTML & CSS <br>
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) - JavaScript <br>
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) - Bootstrap <br>
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) - Postgre SQL<br>
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) - C <br>
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20) - Python <br>
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) - Flutter <br>
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/05) - Google Cloud <br>
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/05) - Microsoft Azure <br>
-
 ## Professional Skills
 - Web Development
 - Mobile application Development
