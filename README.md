@@ -1,8 +1,5 @@
 # About Me
 <!--<img width="1000" align='center' src="https://github.com/winduladissanayake/winduladissanayake/blob/main/readme_header.png">-->
-<p align='justify'>
-Windula Dissanayake is a first-year Computer Science Undergraduate at the Faculty of Computing and Technology, University of Kelaniya. He describes himself as a passionate student with a huge interest in Artificial Intelligence and Machine Learning. He is a member of the marketing team of Computer Science Students’ Association. Windula is also a member of Google Developers Group Sri Lanka and Google Cloud Sri Lanka. He is interested in Web development, Mobile application development, Cloud architecture, and other tech-related subjects. In addition, he is a passionate volunteer in AIESEC of University of Kelaniya.
-</p>
 
 ## Bio Data
 <!--</p><img width="300" align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br>-->
