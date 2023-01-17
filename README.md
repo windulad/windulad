@@ -38,8 +38,8 @@
 <h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>My Stats</h2>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=windulad&theme=tokyonight&hide_border=true&border_radius=4&)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windulad&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windulad&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
 <!---
 winduladissanayake/winduladissanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
