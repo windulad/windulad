@@ -37,7 +37,7 @@
 
 <h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>My Stats</h2>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windulad&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=windulad&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 <!---
 winduladissanayake/winduladissanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
