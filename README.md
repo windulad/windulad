@@ -36,8 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" **alt="GoogleCloud" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40" padding="10"/>&nbsp;
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" **alt="AWS" width="40" height="40" padding="10"/>&nbsp;
- 
 </div>
 
 <h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>My Stats</h2>
