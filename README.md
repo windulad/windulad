@@ -12,7 +12,7 @@
 
 <h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>About Me</h2>
 
-- :computer: I’m a second-year Computer Science Undegraduate at University of Kelaniya, Sri Lanka.
+- :computer: I’m a third-year Computer Science Undegraduate at University of Kelaniya, Sri Lanka.
 - :seedling: A Potterhead, a Bookworm, and a Teahlic guy.
 - :sunglasses: Prounouns: He / Him
 - :zap: Love to watch movies and TV series during my free time.
