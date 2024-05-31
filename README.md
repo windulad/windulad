@@ -1,10 +1,10 @@
 <h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>About Me</h2>
 
-- :computer: A third-year Computer Science Undergraduate at the University of Kelaniya, Sri Lanka.
-- :seedling: A Potterhead, a Bookworm, and a Teaholic guy.
-- :sunglasses: Passionate about Machine Learning and Deep Learning.
-- :airplane: Love watching movies and TV series in my free time. (And of course... Coding!)
-- :mailbox: How to reach me: charithwinwindula@gmail.com
+:computer: A third-year Computer Science Undergraduate at the University of Kelaniya, Sri Lanka.<br>
+:seedling: A Potterhead, a Bookworm, and a Teaholic guy.<br>
+:sunglasses: Passionate about Machine Learning and Deep Learning.<br>
+:airplane: Love watching movies and TV series in my free time. (And of course... Coding!)<br>
+:mailbox: How to reach me: charithwinwindula@gmail.com<br>
 
 <h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>Languages and Tools</h2>
 
