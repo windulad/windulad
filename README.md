@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>About Me</h2>
+<h2>About Me</h2>
 
 <p>:computer: A third-year Computer Science Undergraduate at the University of Kelaniya, Sri Lanka.&nbsp;<br></p>
 <p>:seedling: A Potterhead, a Bookworm, and a Teaholic guy.&nbsp;<br></p>
@@ -6,7 +6,7 @@
 <p>:airplane: Love watching movies and TV series in my free time. (And of course... Coding!)&nbsp;<br></p>
 <p>:mailbox: How to reach me: charithwinwindula@gmail.com&nbsp;<br></p>
 
-<h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 
 <div>
   <h3>Languages</h3><br>
@@ -50,7 +50,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="xd" **alt="xd" width="40" height="40" padding="10"/>&nbsp;
 </div>
 
-<h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>My Stats</h2>
+<h2>My Stats</h2>
   
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=windulad&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
