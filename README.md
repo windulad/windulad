@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" **alt="keras" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" **alt="scikitlearn" width="40" height="40" padding="10"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" **alt="anaconda" width="40" height="40" padding="10"/>&nbsp;  
 </div>
 <div>
   <h2>Designing Tools</h2><br>
