@@ -1,7 +1,7 @@
 <h2>About Me</h2>
 
-<p>:computer: Computer Science Undergraduate at the University of Kelaniya, Sri Lanka.&nbsp;<br></p>
-<p>:seedling: Potterhead, a Bookworm, and a Teaholic guy.&nbsp;<br></p>
+<p>:computer: Computer Science undergraduate at the University of Kelaniya, Sri Lanka.&nbsp;<br></p>
+<p>:seedling: Potterhead and a caffeine addict.&nbsp;<br></p>
 <p>:sunglasses: Passionate about Machine Learning and Deep Learning.&nbsp;<br></p>
 <p>:airplane: Love watching movies and TV series in my free time. (And of course... Coding!)&nbsp;<br></p>
 <p>:mailbox: Reach me: charithwinwindula@gmail.com&nbsp;<br></p>
