@@ -1,14 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/IcPtije3iwoEM/giphy.gif" width="200"/>
-</div>
 
-<div id="badges" align="center">
-  
-  [![](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/windulad)
-  [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ncloyal__)
-  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/windulad)
-  
-</div>
 
 <h2><img src="https://media.giphy.com/media/jQDGQlcdmuyWbVpomT/giphy.gif" width="30px"/>About Me</h2>
 
