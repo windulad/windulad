@@ -1,7 +1,3 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="800" height="400" />
-
 <h2>About Me</h2>
 
 <p>:computer: Computer Science undergraduate at the University of Kelaniya, Sri Lanka.&nbsp;<br></p>
