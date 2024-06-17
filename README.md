@@ -7,7 +7,7 @@
 <p>:mailbox: Reach me: charithwinwindula@gmail.com&nbsp;<br></p>
 
 <div>
-  <h2>Languages</h2><br>
+  <h2>Languages & Frameworks</h2><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" padding="10"/>&nbsp;
@@ -19,34 +19,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSql" alt="MYSql" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQlite" **alt="SQlite" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40" padding="10"/>&nbsp;
-</div>
-<div>
-  <h2>Frameworks & Technologies</h2><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dot-net" alt="dot-net" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40" padding="10"/>&nbsp;
+</div>
+<div>
+  <h2>Technologies & Tools</h2><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40" padding="10"/>&nbsp;
-</div>
-<div>
-  <h2>Artificial Intelligence</h2><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" **alt="tensorflow" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="keras" **alt="keras" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" **alt="pandas" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" **alt="scikitlearn" width="40" height="40" padding="10"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" **alt="anaconda" width="40" height="40" padding="10"/>&nbsp;  
-</div>
-<div>
-  <h2>Designing Tools</h2><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop" **alt="photoshop" width="40" height="40" padding="10"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" **alt="illustrator" width="40" height="40" padding="10"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40" padding="10"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="xd" **alt="xd" width="40" height="40" padding="10"/>&nbsp;
 </div>
 
 <h2>My Stats</h2>
