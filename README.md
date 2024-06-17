@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/4Pcf0yfcGUNgY" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-harry-potter-4Pcf0yfcGUNgY">via GIPHY</a></p>
+
 <h2>About Me</h2>
 
 <p>:computer: Computer Science undergraduate at the University of Kelaniya, Sri Lanka.&nbsp;<br></p>
