@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/4Pcf0yfcGUNgY" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-harry-potter-4Pcf0yfcGUNgY">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="800" height="400" />
 
 <h2>About Me</h2>
 
