@@ -1,12 +1,6 @@
 <h2>READ ME</h2>
 
-<p>:computer: CS Undergrad, Specialized in AI&nbsp;<br></p>
-<p>:sunglasses: Fan of NLP & DE Multiverse&nbsp;<br></p>
-<p>:airplane: Currently Reading book: 12.12.12&nbsp;<br></p>
-<p>:mailbox: Reach me: charithwinwindula@gmail.com&nbsp;<br></p>
-
-<p>Hi folks... I'm a CS Undergrad specialising in AI, and a Fan of NLP & DE Multiverse.</p>
-<p>To grab a coffee and discuss about the book currently I'm reading, reach out to me on charithwinwindula@gmail.com</p>
+Hey everyone! 👋 I'm a CS undergrad diving deep into AI, with a soft spot for NLP and the wild world of Data Engineering. If you're up for a coffee chat about the book I'm currently obsessed with, hit me up at charithwinwindula@gmail.com or drop me a message on LinkedIn: [linkedin.com/in/windulad](https://www.linkedin.com/in/windulad/) 🚀☕📖
 
 <h2>My Stats</h2>
   
