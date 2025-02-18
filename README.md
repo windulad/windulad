@@ -1,9 +1,8 @@
-<h2>About Me</h2>
+<h2>READ ME</h2>
 
-<p>:computer: Computer Science undergraduate at the University of Kelaniya, Sri Lanka.&nbsp;<br></p>
-<p>:seedling: Potterhead and a caffeine addict.&nbsp;<br></p>
-<p>:sunglasses: Passionate about Machine Learning and Deep Learning.&nbsp;<br></p>
-<p>:airplane: Love watching movies and TV series in my free time. (And of course... Coding!)&nbsp;<br></p>
+<p>:computer: CS Undergrad, Specialized in AI&nbsp;<br></p>
+<p>:sunglasses: Fan of NLP & DE Multiverse&nbsp;<br></p>
+<p>:airplane: Currently Reading book: 12.12.12&nbsp;<br></p>
 <p>:mailbox: Reach me: charithwinwindula@gmail.com&nbsp;<br></p>
 
 <h2>My Stats</h2>
