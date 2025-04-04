@@ -1,7 +1,7 @@
 <h2>READ ME</h2>
 
 <p>Hey everyone! 👋</br></p> 
-<p>I'm a CS undergrad diving deep into AI, with a soft spot for NLP and the wild world of Data Engineering. If you're up for a coffee chat about the book I'm currently obsessed with, hit me up at <a href="mailto:charithwinwindula@gmail.com">charithwinwindula@gmail.com</a> or drop me a message on <a href="https://www.linkedin.com/in/windulad/" target="_blank">LinkedIn</a>. 🚀☕📖</p>
+<p>I'm a CS undergrad diving deep into AI, with a soft spot for NLP and Data Engineering. If you're up for a coffee chat about the book I'm currently obsessed with, hit me up at <a href="mailto:charithwinwindula@gmail.com">charithwinwindula@gmail.com</a> or drop me a message on <a href="https://www.linkedin.com/in/windulad/" target="_blank">LinkedIn</a>. 🚀☕📖</p>
 
 <h2>LANGUAGES</h2>
   
