@@ -5,7 +5,7 @@
 
 <h2>LANGUAGES</h2>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windulad&layout=compact&langs_count=30&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windulad&layout=compact&langs_count=20&theme=tokyonight&hide_border=true)
 
 
 <!---
