@@ -5,8 +5,6 @@
 
 <h2>LANGUAGES</h2>
   
-  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=windulad&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windulad&layout=compact)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windulad&layout=compact&langs_count=30&theme=tokyonight&hide_border=true)
 
 
